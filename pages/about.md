@@ -20,7 +20,9 @@ padding: 6em
 
 ## About CollectionBuilder CSV
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+La Guardia was a U.S. Latine-ran Milwaukee newspaper. The periodical provides information on political and social issues affecting the Mexican American and Puerto Rican communities in Milwaukee. Additionally, it promoted Latine-owned businesses and community centers and provided updates on local events.
+
+The collections can be physical repository is the [Benson](https://www.lib.utexas.edu/visit-us/locations/benson), but can be digitally access via [JSTOR](https://www.jstor.org/site/reveal-digital/independent-voices/laguardia-28455644/?so=item_title_str_asc) with institutional access. 
 
 CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
 
