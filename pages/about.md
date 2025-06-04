@@ -1,4 +1,5 @@
----  #between the dashes it is yml and not markdown. 
+---  
+#between the dashes it is yml and not markdown. 
 title: About
 layout: about
 permalink: /about.html
