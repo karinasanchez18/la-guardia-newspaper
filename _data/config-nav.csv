@@ -3,8 +3,10 @@ Home,/,
 Browse,/browse.html,
 Subjects,/subjects.html,
 Locations,/locations.html,
-Map,/map.html,
-Timeline,/timeline.html,
+Map,/map.html,Visualization
+Timeline,/timeline.html,Visualization
 Data,/data.html,
 About,/about.html,
+Exhibit,/exhibit.html,
+Visualization,,
 
