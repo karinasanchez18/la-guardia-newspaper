@@ -1,9 +1,12 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
-creator,Creator,,,DCTERMS.creator,creator
-date,Date Created,,,DCTERMS.date,dateCreated
+título,Título,,,,,
+creator,Creator/Creador,,,DCTERMS.creator,creator
+date,Date/Fecha,,,DCTERMS.date,dateCreated
 description,Description,,,DCTERMS.description,description
+descripción,Descripción,,,,,
 subject,Subjects,true,,DCTERMS.subject,keywords
+sujeto,Sujeto,,,,,
 location,Location,,,,contentLocation
 latitude,Latitude,,,,
 longitude,Longitude,,,,
@@ -12,5 +15,6 @@ identifier,Source Identifier,,,,
 type,Type,,,DCTERMS.type,
 format,Format,,,,encodingFormat
 language,Language,,,DCTERMS.language,
+idoma,Idoma,,,,,
 rightsstatement,,,,DCTERMS.rights,license
 
