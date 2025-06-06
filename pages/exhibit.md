@@ -3,18 +3,6 @@ title: Exhibit
 layout: about
 permalink: /exhibit.html
 
-about-featured-image: utblac_independentvoices_laguardia034
-# set background-position for featured image, "center", "top", "bottom"
-position: middle
-# major heading to display over featured image
-heading: Exhibit
-# paragraph text below heading in featured image
-sub-heading: 
-# additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
-padding: 6em
-# Edit the markdown on in this file to describe your collection
-# Look in _includes/feature for options to easily add features to the page
-
 ---
 
 
