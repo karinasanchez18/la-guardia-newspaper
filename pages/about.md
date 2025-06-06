@@ -10,7 +10,7 @@ about-featured-image: utblac_independentvoices_laguardia027
 # set background-position for featured image, "center", "top", "bottom"
 position: bottom
 # major heading to display over featured image
-heading: About the La Guardia Newspaper
+heading: About 
 # paragraph text below heading in featured image
 sub-heading: 
 # additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
@@ -21,23 +21,11 @@ padding: 6em
 
 ## About La Guardia Newspaper  
 
-{% include feature/alert.html text="example text" color="warning" align="center" %}
-
 La Guardia was a U.S. Latine-ran Milwaukee newspaper. The periodical provides information on political and social issues affecting the Mexican American and Puerto Rican communities in Milwaukee. Additionally, it promoted Latine-owned businesses and community centers and provided updates on local events.
 
 ## Access
 
 {% include feature/image.html objectid="utblac_independentvoices_laguardia027" %}
 
-The collections can be physical repository is the **[Benson]** (https://www.lib.utexas.edu/visit-us/locations/benson), but can be digitally access via **[JSTOR]** (https://www.jstor.org/site/reveal-digital/independent-voices/laguardia-28455644/?so=item_title_str_asc) with institutional access. 
+The collections can be physical repository is the <a href="https://www.lib.utexas.edu/visit-us/locations/benson">Benson</a>, but can be digitally access via <a href="https://www.lib.utexas.edu/visit-us/locations/benson">JSTOR</a> with institutional access. 
 
-1. One Item 
-2. Second Item 
-
-## Including Images 
-
-
-{% include feature/image.html objectid="demo_001" width="75" %} 
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
