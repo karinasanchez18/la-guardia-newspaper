@@ -2,15 +2,20 @@
 title: Exhibit
 layout: about
 permalink: /exhibit.html
+
+about-featured-image: utblac_independentvoices_laguardia034
+# set background-position for featured image, "center", "top", "bottom"
+position: middle
+# major heading to display over featured image
+heading: Exhibit
+# paragraph text below heading in featured image
+sub-heading: 
+# additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
+padding: 6em
+# Edit the markdown on in this file to describe your collection
+# Look in _includes/feature for options to easily add features to the page
+
 ---
-
-
-<section class="text-white py-5" style="background-image: url('objects/utblac_independentvoices_laguardia_vol.7_no.11_pg.8.jpg'); background-size: cover; background-position: center;">
-  <div class="container text-center">
-    <h1 class="display-4"><strong>Exhibit</strong></h1>
-    <p class="lead">Paper as political activism, community, and representation.</p>
-  </div>
-</section>
 
 
 # Introduction #

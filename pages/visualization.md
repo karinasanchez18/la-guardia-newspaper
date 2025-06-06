@@ -2,6 +2,7 @@
 title: Test
 layout: about
 permalink: /visualization.html
+
 ---
 <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
   <div class="card" style="width: 18rem;">
@@ -9,7 +10,7 @@ permalink: /visualization.html
     <div class="card-body">
       <h5 class="Locations">Location</h5>
       <p class="card-text">View the most mentioned locations via a word cloud.</p>
-      <a href="/locations.html" class="btn btn-primary">View Locations</a>
+      <a href="/la-guardia-newspaper/locations.html" class="btn btn-primary">View Locations</a>
     </div>
   </div>
 
@@ -18,7 +19,7 @@ permalink: /visualization.html
     <div class="card-body">
       <h5 class="Map">Map</h5>
       <p class="card-text">View via a map frequent locations mentioned.</p>
-      <a href="/maps.html" class="btn btn-primary">View Map</a>
+      <a href="/la-guardia-newspaper/maps.html" class="btn btn-primary">View Map</a>
     </div>
   </div>
   <div class="card" style="width: 18rem;">
@@ -26,7 +27,7 @@ permalink: /visualization.html
     <div class="card-body">
       <h5 class="Map">Timeline</h5>
       <p class="card-text">View a timeline of events.</p>
-      <a href="/timeline.html" class="btn btn-primary">View Timeline</a>
+      <a href="/la-guardia-newspaper/timeline.html" class="btn btn-primary">View Timeline</a>
     </div>
   </div>
 </div>
@@ -37,8 +38,7 @@ permalink: /visualization.html
     <div class="card-body">
       <h5 class="Locations">Subjects</h5>
       <p class="card-text">View the various subjects mentioned throughout the newspaper.</p>
-      <a href="/subjects.html" class="btn btn-primary">View Subjects</a>  
+      <a href= "/la-guardia-newspaper/subjects.html" class="btn btn-primary">View Subjects</a>  
     </div>
   </div>
 </div>
-
